@@ -1,7 +1,8 @@
 # Football Database Management System
+
 ### Running a Website Locally Using XAMPP and Importing a Database to phpMyAdmin
 
-This guide will walk you through the process of setting up a local website using XAMPP, importing a database to phpMyAdmin, and accessing the website through your browser.
+Below is a guide that will walk you through the process of setting up a local website using XAMPP, importing a database to phpMyAdmin, and accessing the website through your browser.
 
 ## Prerequisites
 
@@ -43,5 +44,6 @@ $database = "your_database_name";
 
 ### 5. Access Your Local Website
 Open your web browser and enter the following URL: `http://localhost/your_website_directory`.
-
 Replace your_website_directory with the actual name of the directory where you placed your website's files.
+
+
